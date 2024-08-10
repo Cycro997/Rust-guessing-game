@@ -82,7 +82,7 @@ fn set_difficulty(diff: u8){
 fn main(){
     let mut diff: String; // difficulty
     
-    println!("Please enter a difficulty name or level between 1 and 20");
+    println!("Please enter a difficulty name or level between 1 and 30");
     println!("Difficulty names: [effortless: 1, easy: 2, mild: 3, moderate: 4, ");
     println!("medium: 5, average: 6, above average: 7, talented: 8");
     println!("spicy: 9, hard: 10, difficult: 11, painful: 12, extreme: 13");
